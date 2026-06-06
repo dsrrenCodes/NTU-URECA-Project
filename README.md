@@ -182,7 +182,7 @@ To isolate which specific profiles diverged in performance, pairwise Welch's t-t
 
 ---
 
-## 🔮 Predictive Performance Modeling
+## Predictive Performance Modeling
 
 To predict whether a student would improve or decline, a **Random Forest Classifier** was trained on the conversational features. Due to a moderate class imbalance (195 Improved vs. 90 Declined), the model utilized balanced class weights.
 
@@ -248,7 +248,7 @@ To predict whether a student would improve or decline, a **Random Forest Classif
 
 ---
 
-## 🕸 Network Transition Insights
+##  Network Transition Insights
 
 Directed transition network analysis on state categories revealed that:
 *   **Improved Students** display a thick, highly interconnected transition web in their state networks, meaning they actively build upon the AI's replies and advance the dialogue.
