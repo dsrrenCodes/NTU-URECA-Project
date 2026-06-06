@@ -55,7 +55,7 @@ Using **K-Means Clustering**, the cohort was segmented into three distinct behav
 
 ---
 
-## 📊 Results & Key Findings
+##  Results & Key Findings
 
 ### Cohort Segmentation Profiles
 
@@ -100,7 +100,7 @@ The clustering algorithm divided the 285-student cohort into three groups:
   </tbody>
 </table>
 
-### 💡 Core Insights
+### Core Insights
 
 1.  **Superficial AI Use is the Default:**
     The majority of students (63%) fell into the **Surface Searchers** profile. Without active guidance or prompting strategies, students tend to engage in superficial interactions with near-zero conversational depth (0.69% engagement rate).
@@ -111,7 +111,7 @@ The clustering algorithm divided the 285-student cohort into three groups:
 
 ---
 
-## 🔬 Statistical Validation
+##  Statistical Validation
 
 ### Kruskal-Wallis H-Test (Overall Profile Differences)
 A non-parametric Kruskal-Wallis test was conducted using score improvement as the dependent variable:
